@@ -1,0 +1,28 @@
+.bold {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+.p {
+    margin: 0px 0px 0px 0px;
+}
+
+.responsive {
+    max-width: auto;
+    height: auto;
+}
+
+video {
+    width: 100%;
+    height: auto;
+  }
+
+  h1 {
+    size: 1.5em;
+  }
+
+
